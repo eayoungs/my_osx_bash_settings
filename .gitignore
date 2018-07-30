@@ -1,5 +1,4 @@
-*
-
-!.bashrc
-!.bash_profile
-!.gitignore
+/*
+!/.gitignore
+!/.bashrc
+!/.bash_profile
